@@ -1,4 +1,5 @@
 //ALuno: Gabriel Souza Almeida. matricula:2022010788
+//Metódo para compilar: GCC -o main.exe main.c       
 #include <stdio.h>
 #include <stdlib.h>
 #include "produto.c"
